@@ -1,0 +1,14 @@
+{
+  "title.blockbattles.config": "BlockBattles Configuration",
+  "category.blockbattles.general": "General",
+  "header.blockbattles.general": "General Settings",
+  "option.blockbattles.autogg": "Auto GG",
+  "option.blockbattles.autoggmessage": "Auto GG Message",
+  "header.blockbattles.statsonready": "Stats on Ready",
+  "option.blockbattles.statsonready": "Enable Stats on Ready",
+  "header.blockbattles.autoqueue": "Auto Queue",
+  "option.blockbattles.autojoinqueue": "Enable Auto-Join Queue",
+  "option.blockbattles.queuetype": "Queue Type",
+  "header.blockbattles.apikey": "API Key Settings",
+  "option.blockbattles.apikey": "API Key"
+}
